@@ -1,3 +1,2 @@
 Bob 40
-Bob 40
 Piter 40

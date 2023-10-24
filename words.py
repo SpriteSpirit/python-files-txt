@@ -43,6 +43,7 @@ def play() -> None:
     Проверяет правильность ответа. После чего сохраняет данные игры"""
 
     word_list = get_list(open_file("words"))
+
     used_words = []
     answers = []
 
